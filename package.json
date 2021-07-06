@@ -1,0 +1,20 @@
+{
+  "name": "t-devTools",
+  "version": "1.0.0",
+  "description": "开发工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1259747604/t-devTools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1259747604/t-devTools/issues"
+  },
+  "homepage": "https://github.com/1259747604/t-devTools#readme"
+}
