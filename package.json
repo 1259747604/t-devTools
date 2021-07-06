@@ -1,6 +1,6 @@
 {
-  "name": "t-devTools",
-  "version": "1.0.0",
+  "name": "t-devtools",
+  "version": "1.0.1",
   "description": "开发工具包",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/1259747604/t-devTools/issues"
   },
-  "homepage": "https://github.com/1259747604/t-devTools#readme"
+  "homepage": "https://github.com/1259747604/t-devTools#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
 }
