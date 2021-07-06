@@ -7,7 +7,7 @@
 | ------------------ | -------------------------------- |
 | chalk              | 同chalk                          |
 | checkRequiredFiles | 检查文件是否存在 参数[filepaths] |
-|                    |                                  |
+| browsersHelper     | 检查是否有设置browsers            |
 |                    |                                  |
 |                    |                                  |
 
